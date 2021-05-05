@@ -31,7 +31,6 @@ experience:
     date_end: '2020-01-03'
     description: |2-
         Responsibilities include:
-        
         * Liason between the clinic, biorepository and laboratories
         * CHAIN database management
         * Quality assuarance and quality control
