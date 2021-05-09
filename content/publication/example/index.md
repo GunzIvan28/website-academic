@@ -1,19 +1,19 @@
 ---
-title: "An example conference paper"
+title: "rMAP: Rapid Microbial Analysis Pipeline for ESKAPE bacterial group whole-genome sequence data"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Gerald Mboowa
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-05-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,16 +23,32 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+# publication: In *Wowchemy Conference*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "The recent re-emergence of multidrug resistant pathogens through persistent misuse antibiotics has
+exacerbated their threat to worldwide human public health and well-being. The evolution of the
+genomics era has led to generation of huge volumes of sequencing data at an unprecedented rate
+due to the ever-reducing costs of whole-genome sequencing (WGS). The considerable bioinformatics
+skills needed to analyze the large volume of genomic data from these platforms and subsequent
+downstream analysis offer constraints in the implementation of WGS as a routine laboratory
+technique. We have developed rMAP, a user-friendly pipeline capable of profiling the resistomes of
+ESKAPE pathogens (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter species). rMAP is designed for beginners and people with little bioinformatics expertise, and automates the steps required for WGS analysis directly from the raw genomic sequence data including: adapter and low quality sequence read trimming, de-novo genome assembly, genome annotation, SNP-variant calling, phylogenetic inference by maximum-likelihood, antimicrobial resistance profiling, plasmid profiling, virulence factor determination, multi-locus
+sequence typing (MLST), pangenome analysis, and insertion sequence characterization (IS)."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "The recent re-emergence of multidrug resistant pathogens through persistent misuse antibiotics has
+exacerbated their threat to worldwide human public health and well-being. The evolution of the
+genomics era has led to generation of huge volumes of sequencing data at an unprecedented rate
+due to the ever-reducing costs of whole-genome sequencing (WGS). The considerable bioinformatics
+skills needed to analyze the large volume of genomic data from these platforms and subsequent
+downstream analysis offer constraints in the implementation of WGS as a routine laboratory
+technique. We have developed rMAP, a user-friendly pipeline capable of profiling the resistomes of
+ESKAPE pathogens (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter species). rMAP is designed for beginners and people with little bioinformatics expertise, and automates the steps required for WGS analysis directly from the raw genomic sequence data including: adapter and low quality sequence read trimming, de-novo genome assembly, genome annotation, SNP-variant calling, phylogenetic inference by maximum-likelihood, antimicrobial resistance profiling, plasmid profiling, virulence factor determination, multi-locus
+sequence typing (MLST), pangenome analysis, and insertion sequence characterization (IS)."
 
 tags: []
 
@@ -66,14 +82,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
