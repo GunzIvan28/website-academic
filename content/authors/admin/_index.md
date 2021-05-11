@@ -12,6 +12,8 @@ role: Microbial Genomicist | Antimcrobial Resistance Researcher
 organizations:
 - name: Makerere University 
   url: https://www.mak.ac.ug/
+- name: Pwani University 
+  url: https://www.pu.ac.ke/index.php/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests involve designing commandline-based Bioinformatics algorithms and pipelines for analyzing Next Generation sequencing data obtained antimicrobial resistant microbial communities.
@@ -51,6 +53,14 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/GunzIvan28
+- icon: orcid
+  icon_pack: fab
+  name: My profile
+  link: 'https://orcid.org/0000-0001-7785-7297'
+- icon: stack-overflow
+  icon_pack: fab
+  name: Developer story
+  link: 'https://stackoverflow.com/users/9348821/ivan-gunz?tab=profile'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 

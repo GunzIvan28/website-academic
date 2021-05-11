@@ -38,7 +38,7 @@ experience:
   - title: Tutor for Pre-doctoral Bioinformatics Mentorship
     company: Makerere University
     company_url: ''
-    company_logo: org-x
+    company_logo: org-b
     location: uganda
     date_start: '2018-01-01'
     date_end: '2019-12-31'

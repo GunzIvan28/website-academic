@@ -40,20 +40,12 @@ ESKAPE pathogens (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumo
 sequence typing (MLST), pangenome analysis, and insertion sequence characterization (IS)."
 
 # Summary. An optional shortened abstract.
-summary: "The recent re-emergence of multidrug resistant pathogens through persistent misuse antibiotics has
-exacerbated their threat to worldwide human public health and well-being. The evolution of the
-genomics era has led to generation of huge volumes of sequencing data at an unprecedented rate
-due to the ever-reducing costs of whole-genome sequencing (WGS). The considerable bioinformatics
-skills needed to analyze the large volume of genomic data from these platforms and subsequent
-downstream analysis offer constraints in the implementation of WGS as a routine laboratory
-technique. We have developed rMAP, a user-friendly pipeline capable of profiling the resistomes of
-ESKAPE pathogens (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter species). rMAP is designed for beginners and people with little bioinformatics expertise, and automates the steps required for WGS analysis directly from the raw genomic sequence data including: adapter and low quality sequence read trimming, de-novo genome assembly, genome annotation, SNP-variant calling, phylogenetic inference by maximum-likelihood, antimicrobial resistance profiling, plasmid profiling, virulence factor determination, multi-locus
-sequence typing (MLST), pangenome analysis, and insertion sequence characterization (IS)."
+summary: ""
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -71,10 +63,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -92,7 +84,7 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -100,4 +92,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

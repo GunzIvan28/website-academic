@@ -36,7 +36,7 @@ directions:
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: Text me
+    name: Follow me
     link: 'https://twitter.com/ivangunz23'
   - icon: skype
     icon_pack: fab
@@ -46,13 +46,20 @@ contact_links:
     icon_pack: fab
     name: Let's chat
     link: 'https://keybase.io/ivangunz23'
-
+  - icon: orcid
+    icon_pack: fab
+    name: My profile
+    link: 'https://orcid.org/0000-0001-7785-7297'
+  - icon: stack-overflow
+    icon_pack: fab
+    name: Developer story
+    link: 'https://stackoverflow.com/users/9348821/ivan-gunz?tab=profile'
 
 # Site header
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true

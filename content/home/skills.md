@@ -29,6 +29,14 @@ feature:
   icon_pack: fab fa-python
   name: Python 
 - description: 100%
+  icon: fab
+  icon_pack: fab fa-linux
+  name: Shell-scripting 
+- description: 90%
+  icon: fab
+  icon_pack: fab fa-github-square
+  name: Git & GitHub
+- description: 100%
   icon: fas
   icon_pack: fas fa-car
   name: Car enthusiast 
