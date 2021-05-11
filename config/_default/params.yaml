@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -20,40 +20,33 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: ivangunz23@gmail.com | ivan.gunz@hotmail.com
+phone: 256 774 529007
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 7072, Upper Mulago Hill
+  city: Kampala
+  region: Central
+  postcode: ''
+  country: Uganda
+  country_code: UG
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: ''
+  longitude: ''
+directions: 
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: Text me
+    link: 'https://twitter.com/ivangunz23'
   - icon: skype
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    name: Skype me
+    link: 'skype:ivan.gunz'
   - icon: keybase
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Let's chat
+    link: 'https://keybase.io/ivangunz23'
+
 
 # Site header
 
