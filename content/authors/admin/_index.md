@@ -6,7 +6,7 @@ title: Ivan Sserwadda
 superuser: true
 
 # Role/position/tagline
-role: Microbial Genomicist | Antimcrobial Resistance Researcher
+role: Microbial Genomicist | Antimicrobial Resistance Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
