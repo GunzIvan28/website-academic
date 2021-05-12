@@ -9,7 +9,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 80
 
-title: Bibliography
+title: 
 subtitle: ""
 
 content:
@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: ""
+    publication_type: "2"
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
