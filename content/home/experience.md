@@ -43,7 +43,28 @@ experience:
     date_start: '2018-01-01'
     date_end: '2019-12-31'
     description: Delivery of tutorial sessions, presentations and practical Linux bash scripting classes to mentees at the College of Health Sciences, Makerere University
-
+  
+  - title: Tutor and facilitator for H3ABionet Pan African IBT virtual online Bioinformatics modules
+    company: Makerere University
+    company_url: 'https://www.h3abionet.org/training/ibt'
+    company_logo: org-b
+    location: uganda
+    date_start: '2017-06-22'
+    date_end: '2017-09-13'
+    description: |2-
+      Responsibilities include:
+        * Organizing the teleconference, providing infrastructure and correspondance for the participants
+        * Liason between the participants and project organizers
+        * Assist in delivering tutorials and extra resources for the students in need at the College of Health Sciences, Makerere University
+  
+  - title: Research Assistant & Laboratory Technologist
+    company: Molecular Diagnostics Laboratory, Makerere University
+    company_url: ''
+    company_logo: org-gc
+    location: Uganda
+    date_start: '2012-01-03'
+    date_end: '2014-01-03'
+    description:  
 design:
   columns: '2'
 ---

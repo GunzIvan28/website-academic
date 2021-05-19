@@ -18,51 +18,6 @@ subtitle:
 date_format: Jan 2006
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
@@ -253,7 +208,54 @@ item:
   organization_url: https://www.coursera.org
   title: 'Bioinformatic Methods I'
   url: ""
-
+- certificate_url: https://www.futurelearn.com/certificates/jhmmznh
+  date_end: ""
+  date_start: "2018-12-08"
+  description: ""
+  organization: Futurelearn
+  organization_url: https://www.futurelearn.com
+  title: 'Genomic Technologies in Clinical Diagnostics: Next Generation Sequencing'
+  url: "https://www.futurelearn.com/courses/next-generation-sequencing"
+- certificate_url: https://www.futurelearn.com/certificates/fmigg1q
+  date_end: ""
+  date_start: "2018-09-19"
+  description: ""
+  organization: Futurelearn
+  organization_url: https://www.futurelearn.com
+  title: 'Bacterial Genomes II: Accessing and Analysing Microbial Genome Data Using Artemis'
+  url: "https://www.futurelearn.com/courses/bacterial-genomes-access-and-analysis"
+- certificate_url: https://www.futurelearn.com/certificates/s07vbe1
+  date_end: ""
+  date_start: "2018-05-15"
+  description: ""
+  organization: Futurelearn
+  organization_url: https://www.futurelearn.com
+  title: 'Bacterial Genomes: Disease Outbreaks and Antimicrobial Resistance'
+  url: "https://www.futurelearn.com/courses/introduction-to-bacterial-genomics"
+- certificate_url: https://www.futurelearn.com/certificates/iiioz69
+  date_end: ""
+  date_start: "2018-06-13"
+  description: ""
+  organization: Futurelearn
+  organization_url: https://www.futurelearn.com
+  title: 'Bacterial Genomes I: From DNA to Protein Function Using Bioinformatics'
+  url: "https://www.futurelearn.com/courses/bacterial-genomes-bioinformatics"
+- certificate_url: https://www.futurelearn.com/certificates/5y4cgg8
+  date_end: ""
+  date_start: "2017-03-20"
+  description: ""
+  organization: Futurelearn
+  organization_url: https://www.futurelearn.com
+  title: 'The Genomics Era: the Future of Genetics in Medicine'
+  url: "https://www.futurelearn.com/courses/the-genomics-era"
+- certificate_url: https://www.futurelearn.com/certificates/5v4b45k
+  date_end: ""
+  date_start: "2017-03-16"
+  description: ""
+  organization: Futurelearn
+  organization_url: https://www.futurelearn.com
+  title: 'Genomic Medicine: Transforming Patient Care in Diabetes'
+  url: "https://www.futurelearn.com/courses/diabetes-genomic-medicine"
 design:
   columns: '2' 
 ---
