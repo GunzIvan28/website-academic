@@ -256,6 +256,22 @@ item:
   organization_url: https://www.futurelearn.com
   title: 'Genomic Medicine: Transforming Patient Care in Diabetes'
   url: "https://www.futurelearn.com/courses/diabetes-genomic-medicine"
+- certificate_url: https://www.globalhealthlearning.org/certificate/277056/g-c-completion-269017-1-277056
+  date_end: ""
+  date_start: "2017-12-11"
+  description: ""
+  organization: Global Health eLearning Centre
+  organization_url: https://www.globalhealthlearning.org/
+  title: 'Antimicrobial Resistance (Part 1)'
+  url: "https://www.globalhealthlearning.org/course/antimicrobial-resistance-part-1-0"
+- certificate_url: https://www.globalhealthlearning.org/certificate/277056/g-c-completion-1388-1-277056
+  date_end: ""
+  date_start: "2017-12-12"
+  description: ""
+  organization: Global Health eLearning Centre
+  organization_url: https://www.globalhealthlearning.org/
+  title: 'Antimicrobial Resistance (Part 2)'
+  url: "https://www.globalhealthlearning.org/course/antimicrobial-resistance-part-1-0"
 design:
   columns: '2' 
 ---
