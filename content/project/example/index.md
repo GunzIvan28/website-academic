@@ -18,7 +18,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Follow
-  url: https://github.com/GunzIvan28
+  url: https://github.com/GunzIvan28/rMAP
 url_code: ""
 url_pdf: ""
 url_slides: ""
