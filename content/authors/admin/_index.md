@@ -16,7 +16,7 @@ organizations:
   url: https://www.pu.ac.ke/index.php/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests involve designing commandline-based Bioinformatics algorithms and pipelines for analyzing Next Generation sequencing data obtained antimicrobial resistant microbial communities.
+bio: My research interests involve designing commandline-based Bioinformatics algorithms and pipelines for analyzing Next Generation sequencing data obtained from antimicrobial resistant bacterial communities.
 
 # Interests to show in About widget
 interests:
