@@ -76,7 +76,7 @@ email: ""
 highlight_name: true
 ---
 
-Ivan Sserwadda is a researcher at Makerere University and the African Center of Excellence at Infectious Disease Institute. My research interests involve designing commandline-based Bioinformatics algorithms and pipelines for analyzing Next Generation sequencing data obtained antimicrobial resistant microbial communities. He leads the team which developed a one-stop shop Bioinformatics algorithm called the "Rapid Microbial Analysis Pipeline" that is capable of profiling the entire mobile genetic element cassettes that may be present in next generation sequencing data of multi-drug resistant bacetrial isolates originating from the notorious ESKAPE group.
+Ivan Sserwadda is a researcher at Makerere University and the African Center of Excellence at Infectious Disease Institute. My research interests involve designing commandline-based Bioinformatics algorithms and pipelines for analyzing Next Generation sequencing data obtained from antimicrobial resistant bacterial communities. He leads the team which developed a one-stop shop Bioinformatics algorithm called the "Rapid Microbial Analysis Pipeline" that is capable of profiling the entire mobile genetic element cassettes that may be present in next generation sequencing data of multi-drug resistant bacetrial isolates originating from the notorious ESKAPE group.
 
 My other interests include: programming, metagenomics, phylogenetics, machine learning and big data analysis.
 
