@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "rMAP: Rapid Microbial Analysis Pipeline for ESKAPE bacterial group whole-genome sequence data"
+title: "rMAP: the Rapid Microbial Analysis Pipeline for ESKAPE bacterial group whole-genome sequence data"
 authors: 
 - admin
 - Gerald Mboowa
@@ -11,8 +11,8 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: 2021-05-12T23:07:05+03:00
-doi: ""
+date: 2021-06-10T23:07:05+03:00
+doi: "https://doi.org/10.1099/mgen.0.000583"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2017-05-12T23:07:05+03:00
@@ -27,15 +27,7 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: "The recent re-emergence of multidrug resistant pathogens through persistent misuse antibiotics has
-exacerbated their threat to worldwide human public health and well-being. The evolution of the
-genomics era has led to generation of huge volumes of sequencing data at an unprecedented rate
-due to the ever-reducing costs of whole-genome sequencing (WGS). The considerable bioinformatics
-skills needed to analyze the large volume of genomic data from these platforms and subsequent
-downstream analysis offer constraints in the implementation of WGS as a routine laboratory
-technique. We have developed rMAP, a user-friendly pipeline capable of profiling the resistomes of
-ESKAPE pathogens (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter species). rMAP is designed for beginners and people with little bioinformatics expertise, and automates the steps required for WGS analysis directly from the raw genomic sequence data including: adapter and low quality sequence read trimming, de-novo genome assembly, genome annotation, SNP-variant calling, phylogenetic inference by maximum-likelihood, antimicrobial resistance profiling, plasmid profiling, virulence factor determination, multi-locus
-sequence typing (MLST), pangenome analysis, and insertion sequence characterization (IS)."
+abstract: "The recent re-emergence of multidrug-resistant pathogens has exacerbated their threat to worldwide public health. The evolution of the genomics era has led to the generation of huge volumes of sequencing data at an unprecedented rate due to the ever-reducing costs of whole-genome sequencing (WGS). We have developed the Rapid Microbial Analysis Pipeline (rMAP), a user-friendly pipeline capable of profiling the resistomes of ESKAPE pathogens ( Enterococcus faecium , Staphylococcus aureus , Klebsiella pneumoniae , Acinetobacter baumannii , Pseudomonas aeruginosa and Enterobacter species) using WGS data generated from Illumina’s sequencing platforms. rMAP is designed for individuals with little bioinformatics expertise, and automates the steps required for WGS analysis directly from the raw genomic sequence data, including adapter and low-quality sequence read trimming, de novo genome assembly, genome annotation, single-nucleotide polymorphism (SNP) variant calling, phylogenetic inference by maximum likelihood, antimicrobial resistance (AMR) profiling, plasmid profiling, virulence factor determination, multi-locus sequence typing (MLST), pangenome analysis and insertion sequence characterization (IS). Once the analysis is finished, rMAP generates an interactive web-like html report. rMAP installation is very simple, it can be run using very simple commands. It represents a rapid and easy way to perform comprehensive bacterial WGS analysis using a personal laptop in low-income settings where high-performance computing infrastructure is limited."
 
 # Summary. An optional shortened abstract.
 summary: ""
