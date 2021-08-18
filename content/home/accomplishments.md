@@ -272,6 +272,14 @@ item:
   organization_url: https://www.globalhealthlearning.org/
   title: 'Antimicrobial Resistance (Part 2)'
   url: "https://www.globalhealthlearning.org/course/antimicrobial-resistance-part-1-0"
+- certificate_url: https://www.futurelearn.com/certificates/fnodugk
+  date_end: ""
+  date_start: "2021-06-07"
+  description: ""
+  organization: Futurelearn
+  organization_url: https://www.futurelearn.com
+  title: 'Bacterial Genomes II: Accessing and Analysing Microbial Genome Data Using Artemis'
+  url: "https://www.futurelearn.com/courses/bacterial-genomes-access-and-analysis"
 design:
   columns: '2' 
 ---
